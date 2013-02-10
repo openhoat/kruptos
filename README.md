@@ -1,7 +1,13 @@
 ## What's kruptos ?
 
 - Encrypt and decrypt node files with a simple command-line
-- Provides a wrapper to 'require' encrypted node modules
+- Provides a wrapper to 'require' encrypted node modules (overrides the standard node Module class)
+
+## Goal
+
+- Encrypt node project files with a secret key
+- Easily execute an application that contains encrypted files without the need to decrypt the files before
+- Just pass the good '--key' argument to node when launching the app
 
 ## Installation
 
