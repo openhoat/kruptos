@@ -47,6 +47,7 @@ Run application and decrypt all module dependencies :
 - There are two encrypted modules based on [sources directory](https://github.com/openhoat/kruptos/tree/master/demo/sources).
 - Try to execute the main script, and see how it works :
 
+
     $ node demo/main --key demokey
 
 To decrypt the modules during the execution :
