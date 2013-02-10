@@ -1,7 +1,7 @@
 ## What's kruptos ?
 
-- Encrypt and decrypt node files with a simple command-line.
-- Provides a wrapper to 'require' encrypted node modules.
+- Encrypt and decrypt node files with a simple command-line
+- Provides a wrapper to 'require' encrypted node modules
 
 ## Installation
 
