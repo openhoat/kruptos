@@ -1,6 +1,6 @@
 {
   "name":"kruptos",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "description":"Tool to encrypt and decrypt node.js files and modules",
   "homepage":"https://github.com/openhoat/kruptos",
   "main":"index.js",
